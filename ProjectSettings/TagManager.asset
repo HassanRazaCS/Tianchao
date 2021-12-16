@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - EnemyBullet
+  - PlayerBullet
+  - Enemy
+  - Cutscene
+  - SpawnerHolder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Player
+  - HUD
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 378495173
+    locked: 0
+  - name: Player
+    uniqueID: 1490257599
+    locked: 0
+  - name: Hitbox
+    uniqueID: 3232727653
+    locked: 0
+  - name: HUD
+    uniqueID: 4231845217
+    locked: 0
